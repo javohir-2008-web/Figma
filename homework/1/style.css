@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.logo p{
+    color: orange;
+    font-weight: 700;
+    font-size: 36px;
+}
+.main{
+    width:800px ;
+    height: 800px;
+    border: 2px solid;
+    display: flex;
+    margin-left: 200px;
+    gap: 50px;
+}
+.con1{
+    width: 300px;
+    border: 2px solid;
+    margin-left: 20px;
+}
+.con2{
+    width: 300px;
+    border: 2px solid;
+}

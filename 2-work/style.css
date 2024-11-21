@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: 0 auto;
+    padding: 0;
+}
+.main-navigation{
+    display: inline-block;
+    background: #2d3e4f;
+    width: 329px;
+    height: 2816px;
+}
+.main-navigation{
+    color: #CF404D;
+}

@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Javohir-s-web-site",
+			"path": ".."
+		},
+		{
+			"name": "img",
+			"path": "../../New folder/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Javohir-s-web-site"
+	}
+}

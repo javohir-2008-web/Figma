@@ -1,0 +1,121 @@
+
+.header{
+    width: 1140px;
+    height: 1212px;
+    lighting-color: #ffffff;
+  
+}
+.container2{
+    text-align: center;
+    display: inline-block;
+    width: Fixed (1,046px)px;
+    height: Hug (1,108px)px;
+    top: 104px;
+    left: 197px;
+    padding: 80px 0px 80px 0px;
+    gap: 80px;
+    opacity: 0px; 
+   
+}
+.row{
+    width: Fixed (701px)px;
+    height: Hug (576px)px;
+    gap: 0px;
+    opacity: 0px;
+}
+.main-content{
+    width: Fixed (699px)px;
+    height: Hug (576px)px;
+    padding: 40px 0px 40px 0px;
+    gap: 40px;
+    opacity: 0px;
+}
+.main-content h5{
+    width: 77px;
+    height: 24px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.10000000149011612px;
+    text-align: left;
+    background: #23A6F0;
+}
+.main-content h1{
+    width: 542px;
+    height: 240px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Montserrat;
+    font-size: 58px;
+    font-weight: 700;
+    line-height: 80px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    background: #FFFFFF;
+}
+.main-content h4{
+    width: 536px;
+    height: 60px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    background: #FFFFFF;
+}
+
+
+.button1{
+    width: Hug (133px)px;
+    height: Hug (52px)px;
+    padding: 15px 40px 15px 40px;
+    gap: 10px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+
+}
+
+
+.container1{
+    width: 1322px;
+    height: 91px;
+    left: 59px;
+    background-color: blue;
+}
+.navbar-brend{
+    font-family:monospace;
+    display: inline-block;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 0.1px;
+    width: 152px;
+    height: 32px;
+    top: 13px;
+    color: #FFFFFF;
+}
+.collapse_navbar-collapse{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 41px;    
+
+
+}
+.navbar-navs{   
+    display: inline-block;
+    
+    
+}
+.navbar-nav{
+    display: inline-block;
+    padding: 21px;
+}
+.navbar-nav a{
+    text-decoration: none;
+}

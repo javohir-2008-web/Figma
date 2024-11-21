@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0; /* Background color for the page */
+}
+
+.container {
+    position: relative;
+    width: 748px;
+    height: 748px;
+    border: 10px solid black; /* Border for the outer container */
+}
+
+.red-box {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 320px;
+    height: 414px;
+    background-color: red;
+}
+
+.green-box {
+    position: absolute;
+    top: 414px; /* Below the red box */
+    left: 0;
+    width: 320px;
+    height: 320px; /* Calculated height */
+    background-color: lightgreen; /* Changed color to differentiate */
+}
+
+.yellow-box {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 198px;
+    height: 20px; /* Height specified */
+    background-color: yellow;
+}
+
+.blue-box {
+    position: absolute;
+    bottom: 0;
+    left: 208px; /* Position adjusted to fit in the container */
+    width: 153px;
+    height: 130px;
+    background-color: blue;
+}
